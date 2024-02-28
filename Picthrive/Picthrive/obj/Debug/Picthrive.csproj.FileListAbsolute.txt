@@ -1,0 +1,10 @@
+D:\github\Picthrive\Picthrive\bin\Debug\Picthrive.exe.config
+D:\github\Picthrive\Picthrive\bin\Debug\Picthrive.exe
+D:\github\Picthrive\Picthrive\bin\Debug\Picthrive.pdb
+D:\github\Picthrive\Picthrive\obj\Debug\Picthrive.csproj.AssemblyReference.cache
+D:\github\Picthrive\Picthrive\obj\Debug\Picthrive.Form1.resources
+D:\github\Picthrive\Picthrive\obj\Debug\Picthrive.Properties.Resources.resources
+D:\github\Picthrive\Picthrive\obj\Debug\Picthrive.csproj.GenerateResource.cache
+D:\github\Picthrive\Picthrive\obj\Debug\Picthrive.csproj.CoreCompileInputs.cache
+D:\github\Picthrive\Picthrive\obj\Debug\Picthrive.exe
+D:\github\Picthrive\Picthrive\obj\Debug\Picthrive.pdb
