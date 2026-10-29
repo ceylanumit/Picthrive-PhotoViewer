@@ -1,23 +1,20 @@
-# Picthrive
+# Picthrive — Photo Viewer
 
-## About the Project
+A C# Windows Forms application for browsing images stored in a local folder.
 
-This project allows the user to select a specific folder on their computer and display the image files in that folder as a list. The user can then select an image from this list and display this selected image in the application.
+## Features
 
-## Getting Started
+- Choose a folder from the computer.
+- List JPG, JPEG, PNG and BMP files.
+- Select an image to display it in the application.
 
-The project is developed as a Windows Forms application and written using the .NET Framework.
+## Build and run
 
-## How to Use
+1. Clone or download this repository.
+2. Open `Picthrive/Picthrive.sln` in Visual Studio with the **.NET desktop development** workload and the **.NET Framework 4.7.2 targeting pack**.
+3. Build the solution and run it with **F5**.
+4. Choose a folder with the browse button, then select a file from the list.
 
-1. Initialization: Launch the application.
-2. Select Folder: Select a folder from your computer by clicking the "Browse" button.
-3. List Images: Image files (with jpg, jpeg, png, bmp extensions) in the selected folder are listed.
-4. View Image: By selecting an image from the list, you can view the selected image in the application.
+## Technology
 
-## Requirements
-
-You will need the following requirements to run the project:
-
-- Visual Studio or a similar IDE
-- .NET Framework
+C# · Windows Forms · .NET Framework 4.7.2
